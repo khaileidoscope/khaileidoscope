@@ -18,13 +18,13 @@
 
 <div align="center">
   <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbb00&height=120&section=header"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=FA3E3E&center=true&vCenter=true&width=700&height=100&lines=Heya+Folks%2C+I'm+Khail!;A+Full-Stack+Web+Developer!;From+the+Philippines!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=ffbb00&center=true&vCenter=true&width=700&height=100&lines=Heya+Folks%2C+I'm+Khail!;A+Full-Stack+Web+Developer!;From+the+Philippines!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -217,12 +217,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=FA3E3E&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=99999&color=ffbb00&center=true&vCenter=true&repeat=false&width=700&height=100&lines=Thanks+for+visiting%2C+see+ya!" alt="TypingGoodbye-SVG" title="Goodbye and come again! ;)"/>
   </a>
 </div>
 
 <div align="center">
   <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa3e3e&height=120&section=footer"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbb00&height=120&section=footer"/>
   </a>
 </div>
