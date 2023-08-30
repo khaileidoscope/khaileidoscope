@@ -106,7 +106,7 @@
     <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/VSCode-icon.png" alt="VSCode-icon" height="32" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://canva.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Canva-icon.png" alt="Canva-icon" height="32" title="Canca"/>
+    <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Canva-icon.png" alt="Canva-icon" height="32" title="Canva"/>
   </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
     <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/CSS3-icon.png" alt="CSS-icon" height="32" title="CSS"/>&nbsp;&nbsp;
@@ -115,7 +115,9 @@
   </a>
 </div>
 
-### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Studying in this moment:
+<!-- Studying at this moment skills -->
+
+### <a href="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif"><img align="center" src="https://media.giphy.com/media/hfnkqlWI5Oh91vsvcw/giphy.gif" width="36" alt="CodeLearning-gif"/></a>&nbsp; Skills I'm trying to improve and study at this moment:
 
 <div align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
@@ -130,8 +132,8 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
     </a>&nbsp;&nbsp;
-   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank">
-    <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/NETCore-icon.png" alt=".NETCore-icon" height="32" title=".NET Core"/>
+   <a href="https://getbootstrap.com/" target="_blank">
+    <img style="margin: 10px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="32" title="Bootstrap"/>
   </a>&nbsp;&nbsp;
     <a href="https://www.w3schools.com/sql/" target="_blank">
     <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/SQL-icon.png" alt="SQL-icon" height="33" title="SQL"/>
