@@ -66,7 +66,7 @@
 <div align="left">
   <a href="#"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Linktree-icon.png" height="32" alt="MyLinktree-icon" title="My Linktree"></a>&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/LinkedIn-icon.png" height="32" alt="LinkedIn-icon" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/khaileidoscope"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Spotify-icon.png" height="32" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/xjwtw7we6rfd87ws3xj25u2yl"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Spotify-icon.png" height="32" alt="Spotify-icon" title="Spotify"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/khaileidoscopes/"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Instagram-icon.png" height="32" alt="Instagram-icon" title="Instagram"></a>&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Facebook-icon.png" height="32" alt="Facebook-icon" title="Facebook"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:jomaikoh@gmail.com"><img src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/Email-icon.png" height="32" alt="Email-icon" title="Email"></a>&nbsp;&nbsp;&nbsp;
