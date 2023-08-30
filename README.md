@@ -86,7 +86,7 @@
 [![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/album/3jeCyPfTzqWO0xruMqYwSy?si=7xnTZpp4TQe9SjObqDKY9Q)
 [![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP)
 
-[![Juletopi's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/xjwtw7we6rfd87ws3xj25u2yl)
+[![Khaileidoscope's Spotify Playing](https://spotify-api-readme-fork.vercel.app/api/spotify/?background_color=0e1118&border_color=22252c)](https://open.spotify.com/user/xjwtw7we6rfd87ws3xj25u2yl)
 
 <div align="center">
   <a href="#">
@@ -175,10 +175,10 @@
 
 <div align="center">
   <a href="https://github.com/khaileidoscope/">
-    <img src="https://github-readme-stats.vercel.app/api?username=khaileidoscope&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Khaileidoscope-stats" title="Khaileidoscope's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=khaileidoscope&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Khaileidoscope's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Khaileidoscope-stats" title="Khaileidoscope's GitHub Stats">
   </a>
   <a href="https://github.com/khaileidoscope/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaileidoscope&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Juletopi's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="KhaileidoscopeTopLangs-stats" title="Khaileidoscope's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaileidoscope&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Khaileidoscope's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="KhaileidoscopeTopLangs-stats" title="Khaileidoscope's Coding Language Stats">
   </a>
 </div>
 
@@ -208,7 +208,7 @@
   <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
     <a href="#">
-      <img align="center" src="https://profile-counter.glitch.me/{khaileidoscope}/count.svg" alt="VisitorsCount-SVG" title="Juletopi's Profile Visitors Counter"/>
+      <img align="center" src="https://profile-counter.glitch.me/{khaileidoscope}/count.svg" alt="VisitorsCount-SVG" title="Khaileidoscope's Profile Visitors Counter"/>
     </a>
   </p> 
 </div>
