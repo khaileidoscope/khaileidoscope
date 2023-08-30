@@ -86,7 +86,7 @@
 [![My Chill Mix Playlist](https://img.shields.io/badge/Chill%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/album/3jeCyPfTzqWO0xruMqYwSy?si=7xnTZpp4TQe9SjObqDKY9Q)
 [![My Anime Mix Playlist](https://img.shields.io/badge/Anime%20Mix-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white&color=E22B2B)](https://open.spotify.com/playlist/7AONukCIYAMZcXERyh2ZUP)
 
-[![Khaileidoscope's Spotify Playing](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/khaileidoscopes)
+[![Khaileidoscope's Spotify Playing](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/xjwtw7we6rfd87ws3xj25u2yl)
 
 <div align="center">
   <a href="#">
