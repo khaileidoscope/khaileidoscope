@@ -163,7 +163,24 @@
 
 <div align="center">
   <a href="https://github.com/khaileidoscope/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaileidoscope&bg_color=0e1118&hide_border=true&custom_title=Khaileidoscope's%20Contribution%20Graph&area=true&area_color=e73737&title_color=e73737&line=e73737&point=e73737&theme=high-contrast" width="800" alt="KhaileidoscopeContribution-graph" title="Khaileidoscope's Contribution Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaileidoscope&bg_color=0e1118&hide_border=true&custom_title=Khaileidoscope's%20Contribution%20Graph&area=true&area_color=ffbb00&title_color=ffbb00&line=ffbb00&point=ffbb00&theme=high-contrast" width="800" alt="KhaileidoscopeContribution-graph" title="Khaileidoscope's Contribution Graph">
+  </a>
+</div>
+<!-- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaileidoscope&bg_color=0e1118&color=e7e4da&line=ffbb00&point=ffbb00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<div align="center">
+  <a href="#">
+    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=ffbb00&height=3&section=header&%20render">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/khaileidoscope/">
+    <img src="https://github-readme-stats.vercel.app/api?username=khaileidoscope&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Khaileidoscope's%20GitHub%20Stats&title_color=ffbb00&icon_color=ffbb00&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Khaileidoscope-stats" title="Khaileidoscope's GitHub Stats">
+  </a>
+  <a href="https://github.com/khaileidoscope/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaileidoscope&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Khaileidoscope's%20Top%20Langs%20(By%20File%20Size)&title_color=ffbb00&icon_color=ffbb00&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="KhaileidoscopeTopLangs-stats" title="Khaileidoscope's Coding Language Stats">
   </a>
 </div>
 
@@ -175,22 +192,7 @@
 
 <div align="center">
   <a href="https://github.com/khaileidoscope/">
-    <img src="https://github-readme-stats.vercel.app/api?username=khaileidoscope&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Khaileidoscope's%20GitHub%20Stats&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Khaileidoscope-stats" title="Khaileidoscope's GitHub Stats">
-  </a>
-  <a href="https://github.com/khaileidoscope/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaileidoscope&layout=compact&langs_count=8&theme=codeSTACKr&custom_title=Khaileidoscope's%20Top%20Langs%20(By%20File%20Size)&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118&disable_animations=true" width="370" alt="KhaileidoscopeTopLangs-stats" title="Khaileidoscope's Coding Language Stats">
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=ffbb00&height=3&section=header&%20render">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/khaileidoscope/">
-    <img src="https://streak-stats.demolab.com?user=khaileidoscope&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="Khaileidoscope-stats" title="Khaileidoscope's Streak Stats">
+    <img src="https://streak-stats.demolab.com?user=khaileidoscope&theme=dark&hide_border=true&background=0E1118&ring=ffbb00&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="Khaileidoscope-stats" title="Khaileidoscope's Streak Stats">
   </a>
 </div>
 
