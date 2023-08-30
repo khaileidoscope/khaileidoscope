@@ -129,9 +129,6 @@
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/JavaScript-icon.png" alt="JavaScript-icon" height="32" title="JavaScript"/>
   </a>&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img style="margin: 10px" src="https://github.com/khaileidoscope/khaileidoscope/blob/main/Assets/Icons/CSharp-icon.png" alt="CSharp-icon" height="32" title="CSharp"/>
-    </a>&nbsp;&nbsp;
    <a href="https://getbootstrap.com/" target="_blank">
     <img style="margin: 10px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" height="32" title="Bootstrap"/>
   </a>&nbsp;&nbsp;
