@@ -34,9 +34,8 @@
 
 <div align="left">
  
-  **▸ I'm currently studying System Analysis and \
-  Development at [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana), \
-  and aiming to start as a Front-End Developer!**
+  **▸ I'm currently studying Full-Stack Web Development at [**KodeGo.PH**](https://kodego.ph/), \
+  and aiming to start as a Full-Web Stack Developer!**
  
 </div>
 
