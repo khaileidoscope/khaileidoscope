@@ -48,7 +48,7 @@
 
 </div>
 
-### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> In what I study for now, I can quote:
+### <a href="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif"><img align="center" src="https://media.giphy.com/media/r6g6PL4fMY7NgruRTh/giphy.gif" width="28" alt="Studing-gif"/></a> I'm currently studying the following:
 
 <div align="left">
 
